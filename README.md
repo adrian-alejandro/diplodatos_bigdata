@@ -55,7 +55,8 @@ docker run -u 1000 -it --rm --hostname localhost -p 8080:8080 -p 4040:4040^
 **o** puede ejecutar el script `zeppelin.cmd` en vez del comando anterior.
 
 * Para utilizar [Zeppelin](https://zeppelin.apache.org/) en un navegador ir a [http://localhost:8080]().
-#### Instalación directa
+
+#### Instalación directa (sin docker)
 
 * Instalar anaconda si no lo tiene ya instalado (ver https://docs.anaconda.com/anaconda/install).
 
