@@ -15,6 +15,12 @@ Despues ejecutar en la terminal:
 
 Seguir las instrucciones en [git](https://git-scm.com/download/linux) según la distribucion Linux que tengas instalada.
 
+Despues ejecutar en la terminal:
+
+```
+git clone https://bigdata_famaf@bitbucket.org/bigdata_famaf/diplodatos_bigdata.git`
+```
+
 ## Como instalar el software necesario para la materia
 
 ### En tu computadora (>=8GB ram)
