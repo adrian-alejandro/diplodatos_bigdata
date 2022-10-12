@@ -11,6 +11,10 @@ Despues ejecutar en la terminal:
 1. `git config --global core.autocrlf false`
 1. `git clone https://bigdata_famaf@bitbucket.org/bigdata_famaf/diplodatos_bigdata.git`
 
+### En Linux
+
+Seguir las instrucciones en [git](https://git-scm.com/download/linux) según la distribucion Linux que tengas instalada.
+
 ## Como instalar el software necesario para la materia
 
 ### En tu computadora (>=8GB ram)
