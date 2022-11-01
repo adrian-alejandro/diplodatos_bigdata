@@ -129,7 +129,7 @@ docker run -u 1000 -it --rm --hostname localhost -p 8080:8080 -p 4040:4040^
 ``` 
 > (debe haberse creado un directorio `spark`)
 
-* Ejecutar desde el directorio `spark` recién creado los siguientes comandos (cambiar puerto para que cada usuario use uno distinto):
+* Ejecutar los siguientes comandos (esto cambia puerto para que cada usuario use uno distinto):
 ```sh
         echo $[$UID+8080] # recordar <nuevo puerto> (anotarlo)
         cd spark/zeppelin-0.10.0-bin-all/conf
