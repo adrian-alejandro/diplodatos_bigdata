@@ -1,5 +1,17 @@
 # Programación Distribuida sobre Grandes Volúmenes de Datos
 
+## Importante (Leer)
+Esta es una copia del [repositorio original (hosteado en BitBucket)](https://bigdata_famaf@bitbucket.org/bigdata_famaf/diplodatos_bigdata.git) desarrollado por el profesor Damián Barsotti para la materia [Programación Distribuida sobre Grandes Volúmenes de Datos](https://sites.google.com/view/eleccion-optativas-diplodatos/programaci%C3%B3n-distribu%C3%ADda-sobre-grandes-vol%C3%BAmenes-de-datos/), 
+correspondiente a la [Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones](https://diplodatos.famaf.unc.edu.ar/) de la [Facultad de Matemática Astronomía Física y Computación](https://www.famaf.unc.edu.ar/) - [Universidad Nacional de Córdoba](https://www.unc.edu.ar/).
+
+En `root/entregables` se encuentran los trabajos prácticos (notebooks [Zeppelin](https://zeppelin.apache.org/)) desarrollados para la materia por los siguientes integrantes del Grupo 03:
+- Adrián Z.
+- Laura F.
+- Ernesto R.
+- Anahí S.
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0//).
+
 ## Para el uso de este repositorio
 
 ### En Windows
